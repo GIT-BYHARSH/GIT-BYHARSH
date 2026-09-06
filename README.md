@@ -2,10 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:24243e,100:00F5FF&height=200&section=header&text=HARSH%20GAUTAM&fontSize=45&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=Turning%20Data%20Into%20Decisions&descAlignY=55&descSize=18&descColor=FF00FF" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Decisions;Exploring+AI+%26+ML+Concepts;Python+%7C+SQL+%7C+Power+BI;Open+to+Any+Tech+Role+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
+<h3 align="center">🧠 Exploring AI & ML Concepts &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 🗄️ SQL &nbsp;|&nbsp; 📊 Power BI</h3>
 <p>
   <img src="https://img.shields.io/badge/Email-harshgautam1406%40gmail.com-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Location-Ghaziabad-0F0C29?style=for-the-badge&logo=googlemaps&logoColor=FF00FF&labelColor=000000"/>
